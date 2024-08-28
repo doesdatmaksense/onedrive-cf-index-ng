@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/header.png" alt="onedrive-cf-index-ng" />
-  <h3><a href="https://pan.lyc8503.net">onedrive-cf-index-ng</a></h3>
+  <h3><a href="https://storage.harrykauhaad.com">onedrive-cf-index-ng</a></h3>
   <p><em>OneDrive public directory listing forked from <a href="https://github.com/spencerwooo/onedrive-vercel-index">onedrive-vercel-index</a>, powered by Cloudflare and Next.js</em></p>
 
   <img src="https://img.shields.io/badge/OneDrive-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="OneDrive" />
@@ -13,7 +13,7 @@
 - Now it can be deployed on Cloudflare Pages for free!
 - Also support [Docker Deployment](https://github.com/lyc8503/onedrive-cf-index-ng/wiki/Docker-Deployment) now!
 - No more dependency on Upstash / 3rd-party service
-- Maybe some future maintenance or improvements from me ([@lyc8503](https://github.com/lyc8503))
+- Maybe some future maintenance or improvements from me ([@lyc8503](https://github.com/lyc8503)) + ([@hv33y](https://github.com/hv33y))
 
 *Special thanks to the original author of this project [@spencerwooo](https://github.com/spencerwooo) and all contributors*
 
@@ -31,78 +31,15 @@ Showcase, share, preview, and download files inside *your* OneDrive with onedriv
 
 ## Quick start
 
-🚀 Quick start: [Getting started](https://github.com/lyc8503/onedrive-cf-index-ng/wiki/Getting-Started).
+🚀 Quick start: [Getting started](https://github.com/hv33y/onedrive-cf-index-ng/wiki/Getting-Started).
 
 *If you happen to like this project, please give it a star!* :3
 
 ## Demo
 
-Live demo at [lyc8503's Fileshare](https://pan.lyc8503.net).
+Live demo at [hv33y's Fileshare](https://storage.harrykauhaad.com).
 
 ![demo](./public/demo.png)
-
-## Features
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a
-          href="https://pan.lyc8503.net/Demo/%F0%9F%93%84Documents"
-          >👀 File preview</a
-        >
-      </td>
-      <td>
-        <a
-          href="https://pan.lyc8503.net/Demo/%F0%9F%96%BC%EF%B8%8FPictures"
-          >💠  List / Grid layouts</a
-        >
-      </td>
-      <td>
-        <a
-          href="https://pan.lyc8503.net/Demo/%F0%9F%98%8EAnother%20Private%20Folder%20Password%20123"
-          >🎥 Video and audio</a
-        >
-      </td>
-    </tr>
-    <tr>
-      <td>PDF, EPUB, markdown, code, plain text</td>
-      <td>For previewing images and documents with thumbnails</td>
-      <td>mp4, mp3, ..., play online or with IINA, PotPlayer ... with subtitles!</td>
-    </tr>
-    <tr>
-      <td>
-        <a
-          href="https://pan.lyc8503.net/Demo/%F0%9F%93%84Documents"
-          >📄 Office preview</a
-        >
-      </td>
-      <td><a href="https://pan.lyc8503.net/Demo/%F0%9F%93%84Documents">📝 README.md preview</a></td>
-      <td><a href="https://pan.lyc8503.net/Demo/%F0%9F%96%BC%EF%B8%8FPictures">📑 Pagination</a></td>
-    </tr>
-    <tr>
-      <td>docx, pptx, xlsx, ...</td>
-      <td>Also renders code blocks, images with relative links, ...</td>
-      <td>For folders with 200 or more items</td>
-    </tr>
-    <tr>
-      <td><a href="https://pan.lyc8503.net/Demo/%F0%9F%98%8EAnother%20Private%20Folder%20Password%20123">🔒 Protected folders</a></td>
-      <td><a href="https://pan.lyc8503.net/Demo">⏬ Multi-file download</a></td>
-      <td>🔎 Native Search</td>
-    </tr>
-    <tr>
-      <td>Password protected routes and files. <a href="https://ovi.swo.moe/docs/features/protected-folders">Details here</a></td>
-      <td>
-        Compress and download multiple files or folders.
-        <a href="https://ovi.swo.moe/docs/features/multi-file-folder-download">Details here</a>
-      </td>
-      <td>
-        Searching through your shared OneDrive files (with some caveats 🥺).
-        <a href="https://ovi.swo.moe/docs/features/search-for-files-and-folders">Details here</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ... and more:
 
@@ -114,10 +51,10 @@ Live demo at [lyc8503's Fileshare](https://pan.lyc8503.net).
 
 ## Documentation
 
-Documentation is hosted at [GitHub Wiki](https://github.com/lyc8503/onedrive-cf-index-ng/wiki).
+Documentation is hosted at [GitHub Wiki](https://github.com/hv33y/onedrive-cf-index-ng/wiki).
 
 - [How can I get started and deploy?](https://github.com/lyc8503/onedrive-cf-index-ng/wiki/Getting-Started)
-- [How can I configure ... ?](https://github.com/lyc8503/onedrive-cf-index-ng/wiki/Configurations)
+- [How can I configure ... ?](https://github.com/hv33y/onedrive-cf-index-ng/wiki/Configurations)
 - Where is feature ... ?
   - [Docs - Password protected folders](https://ovi.swo.moe/docs/features/protected-folders)
   - [Docs - Multi-file and folder download](https://ovi.swo.moe/docs/features/multi-file-folder-download)
@@ -145,7 +82,7 @@ Yes! Completely free with no backend server what-so-ever.
 
 <div align="center">
   <img src="./public/footer.png" />
-  <em>made with ❤️ by <a href="https://lyc8503.net">lyc8503</a> & <a href="https://spencerwoo.com">spencer woo</a></em>
+  <em>made with ❤️ by <a href="https://harrykauhaad.com">hv33y</a>, <a href="https://lyc8503.net">lyc8503</a> & <a href="https://spencerwoo.com">spencer woo</a></em>
 </div>
 
 
